@@ -1,0 +1,28 @@
+body{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+#titulo{
+    font-family: 'Satisfy', cursive;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 60px;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border:1px solid brown
+}
+img{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 black
+}
+.column{
+    display: inline;
+    padding: 10px;
+}
+img:hover{
+    border-radius: 140px;
+}
